@@ -8,9 +8,9 @@ import lemminflect
 import numpy as np
 import pandas as pd
 import torch
-import src.sampling
+# import src.sampling
 from pathlib import Path
-import src.predictor
+# import src.predictor
 
 """
 srl processor
